@@ -1,0 +1,1 @@
+Um aplicativo simples de calculadora com objetivo de exercitar a sintaxe do C#
