@@ -1,0 +1,1 @@
+Um aplicativo simples de edição de texto com objetivo de exercitar a sintaxe do C#
