@@ -1,0 +1,1 @@
+Um aplicativo simples de cronometro com objetivo de exercitar a sintaxe do C#
