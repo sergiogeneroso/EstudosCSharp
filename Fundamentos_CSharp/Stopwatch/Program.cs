@@ -17,6 +17,11 @@ namespace StopWatch
       Console.WriteLine("0s = Sair");
       Console.WriteLine("Quanto tempo deseja contar?");
 
+      InitializerCounter();
+    }
+
+    static void InitializerCounter()
+    {
       string data = Console.ReadLine().ToLower();
       char type = char.Parse(data.Substring(data.Length - 1, 1));
       int time = int.Parse(data.Substring(0, data.Length - 1));
