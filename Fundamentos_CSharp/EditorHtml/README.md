@@ -1,0 +1,1 @@
+Um aplicativo simples simulando um editor de texto com algumas funções a mais
