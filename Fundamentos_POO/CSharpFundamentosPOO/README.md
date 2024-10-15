@@ -1,0 +1,1 @@
+Simulação de um aplicativo de curso para exercitar fundamentos de POO com C#
